@@ -1,6 +1,22 @@
 ZZT.js
 ======
 
+I am attempting to re-package this as a module for npm, and use modern frontend dev tools.
+
+You can see it running [here](https://zzt.surge.sh).
+
+
+```
+npm i      # install tools
+npm start  # start a local development server
+npm deploy # deploy demo page to surge
+npm build  # build a compiled version of demo page in `dist/`
+```
+
+
+## Original README
+
+
 This is an attempt to recreate a ZZT engine in HTML5/JS.
 
 ZZT is a game developed in 1991 by Tim Sweeney of Potomac Computer Systems,
